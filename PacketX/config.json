@@ -1,0 +1,12 @@
+{
+  "ProjectName": "PacketX",
+  "Version": "1.0.0",
+  "ScanSettings": {
+    "Timeout": 1000,
+    "UseProxy": false
+  },
+  "CriticalPaths": [
+    "C:\\Windows\\System32\\drivers\\etc\\hosts",
+    "C:\\inetpub\\wwwroot"
+  ]
+}
