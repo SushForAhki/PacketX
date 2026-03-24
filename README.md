@@ -73,7 +73,7 @@ Bu yapı sayesinde modüller dinamik olarak yönetilir ve merkezi menüden çal�
 Projeyi klonla:
 
 ```bash
-git clone https://github.com/kullaniciadi/PacketX.git
+git clone https://github.com/SushForAhki/PacketX.git
 ```
 
 Visual Studio ile aç ve derle:
